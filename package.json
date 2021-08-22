@@ -1,0 +1,27 @@
+{
+  "name": "zheel",
+  "version": "1.0.1",
+  "description": "nodejs cleaner",
+  "main": "index.js",
+  "scripts": {
+    "test": "\"echo \\\"Error: see you again\\\" && exit 1\""
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://hna-bd@bitbucket.org/hna-bd/zheel.git"
+  },
+  "author": "SHA",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://bitbucket.org/hna-bd/zheel/issues"
+  },
+  "homepage": "https://bitbucket.org/hna-bd/zheel#readme",
+  "dependencies": {
+    "express": "^4.8.0",
+    "mardala": "^1.0.0",
+    "mkdirp": "^1.0.4",
+    "request": "^2.88.2",
+    "underscore": "^1.9.1",
+    "uuid": "^7.0.3"
+  }
+}
