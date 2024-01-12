@@ -1,0 +1,11 @@
+{
+  "name": "auth0-typescript",
+  "main": "index.ts",
+  "devDependencies": {
+    "@types/node": "^18"
+  },
+  "dependencies": {
+    "@pulumi/pulumi": "^3.20.0",
+    "@pulumi/auth0": "^2.3.2"
+  }
+}

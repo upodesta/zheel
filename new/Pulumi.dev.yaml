@@ -1,0 +1,7 @@
+config:
+  auth0:clientId:
+    secure: AAABAD5CGpduGFvl7+4YsbQF3HKeFav9L5QUYmNSDRuuZH/WveM4KjDRJAeypNgDvOgJnWw=
+  auth0:clientSecret:
+    secure: AAABAD9cOl+9dwvss4K28kWZ37F+lZcu7FlMcObqgtmfix6zdjxtQVjFIPJEM4Z/cz1h+M2UFMV0YED5ATkqf8yxGBdInwXZMR0P89iCCkYJr8DFlKE=
+  auth0:domain: hna.auth0.com
+  pulumi:template: auth0-typescript
